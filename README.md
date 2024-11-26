@@ -1,5 +1,8 @@
 CubosFlix
 
+![image](https://github.com/user-attachments/assets/386a45af-1c78-4f60-9975-e17cf805956d)
+
+
 Bem-vindo ao CubosFlix! Este projeto é uma plataforma para exibição de filmes e séries, com funcionalidades de pesquisa e destaques interativos, sendo um desafio do curso de desenvolvimento de software da Cubos Academy.
 
 Funcionalidades
